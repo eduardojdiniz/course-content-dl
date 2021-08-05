@@ -96,3 +96,39 @@ Large initialization puts a random representation in the network to beggin with 
 
 The features of a given model are interpreted as a potential hypothesis about the features that a given brain area might be using to represent the stimulus.
 
+Illusory correlations: transient overgeneralizations. Shallow networks don't suffer from illusory correlations. Should we train two types of networks to id illusory correlations?
+
+
+The Deep Learning Framework:
+***
+_Objective function:_ Cross entropy loss
+_Learning rule:_ Gradient descent with momentum
+_Architecture:_ Deep Convolutional ReLU network
+_Initialization:_ He et al. (Scaled Gaussian)
+_Environment:_ ImageNet dataset
+***
+The correct for GD training loop in PyTorch:
+
+***
+π: optimizer.zero_grad()
+Ω:  predictions = model(features)
+ß: loss = loss_fun(predictions, targets)
+ø: loss.backward()
+∆: optimizer.step()
+********
+Tuning up training:
+***
+You want **deep, wide, smallish-initialization variance, maximum stable learning rate regime**.
+
+You will know you are there when:
+* You see a hint of sigmodal learning trajectory.
+* you see internal reps change substantially through learning.
+* multiple retrainings yield nearly identical trajectories and internal reps (especially for wide nets).
+***
+# Outro
+
+In 11:00 in W1D2 outro it seems the network learns the low frequency Fourier components first and then proceeds to learn the high frequency ones.
+
+* More complex assumptions of the input (manifold disentanglement): Chung et al., 2018; Cohen, 2020.
+* Rich generative models (input lies in a low-D, curved manifold): Goldt et al., 2019.
+* Training dynamics in nonlinear networks: Jacot et al., 2018; Lee et al., 2019; Arora et al., 2019.

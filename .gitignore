@@ -2,3 +2,4 @@
 **/frames
 *.csv
 .ipynb_checkpoints
+**/AnimalFaces32x32
