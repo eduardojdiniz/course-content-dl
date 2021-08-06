@@ -41,3 +41,5 @@ Get a good understand of the data and then teach that intuition to the model.
 [Object Based Attention Through Internal Gating](https://arxiv.org/pdf/2106.04540.pdf)
 
 [Ludwig, a code-free deep learning toolbox](https://eng.uber.com/introducing-ludwig/)
+
+[Benign overfitting in linear regression](https://www.pnas.org/content/117/48/30063#sec-12)

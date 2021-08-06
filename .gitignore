@@ -5,3 +5,4 @@
 **/AnimalFaces32x32
 **/MNIST
 *.pt
+**/afhq*
