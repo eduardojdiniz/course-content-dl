@@ -3,3 +3,5 @@
 *.csv
 .ipynb_checkpoints
 **/AnimalFaces32x32
+**/MNIST
+*.pt
