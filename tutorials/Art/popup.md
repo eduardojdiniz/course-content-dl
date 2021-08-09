@@ -36,3 +36,5 @@ AI on the streets, Linear regression in the sheets
 For drawing pod mascots: https://colab.research.google.com/drive/1IHzJRVxCGtNY-UhqlD-yFqNlwd3SbHd7?usp=sharing
 
 Sometimes I think it would be faster to train a monkey to do the task than to clean-up the data.
+
+Pass the torch
