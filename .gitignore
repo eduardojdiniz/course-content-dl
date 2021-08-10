@@ -4,5 +4,9 @@
 .ipynb_checkpoints
 **/AnimalFaces32x32
 **/MNIST
+**/EMNIST
+**/FashionMNIST
+**/student/images
+**/student/twain.txt
 *.pt
 **/afhq*

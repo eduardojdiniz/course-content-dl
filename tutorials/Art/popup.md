@@ -38,3 +38,6 @@ For drawing pod mascots: https://colab.research.google.com/drive/1IHzJRVxCGtNY-U
 Sometimes I think it would be faster to train a monkey to do the task than to clean-up the data.
 
 Pass the torch
+
+
+Leonardo DiCaprio soon will release a documnetary how the cows are not the killers of the envirorment, but Transformers are. Transformeless. A new type of diet called transformeless.
