@@ -40,4 +40,4 @@ Sometimes I think it would be faster to train a monkey to do the task than to cl
 Pass the torch
 
 
-Leonardo DiCaprio soon will release a documnetary how the cows are not the killers of the envirorment, but Transformers are. Transformeless. A new type of diet called transformeless.
+Leonardo DiCaprio soon will release a documnetary how the cows are not the killers of the envirorment, but Transformers are. Transformeless. A new type of diet called transformeless. Use the "we need to go depper" leornard dicaprio meme.

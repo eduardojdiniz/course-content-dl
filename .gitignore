@@ -10,3 +10,7 @@
 **/student/twain.txt
 *.pt
 **/afhq*
+**/faces
+**/small_pokemon_dataset
+**/imagenette2-320
+**dog.jpg
