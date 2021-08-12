@@ -14,3 +14,7 @@
 **/small_pokemon_dataset
 **/imagenette2-320
 **dog.jpg
+**/.data
+**/.vector_cache
+**/cc.en.100.bin
+**/model_w2d3_t1.pkl

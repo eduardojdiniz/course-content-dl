@@ -41,3 +41,5 @@ Pass the torch
 
 
 Leonardo DiCaprio soon will release a documnetary how the cows are not the killers of the envirorment, but Transformers are. Transformeless. A new type of diet called transformeless. Use the "we need to go depper" leornard dicaprio meme.
+
+Those lectures from the LSTM day are just a LSTM cell, it forget frames, add frames, concatenate frames...a lot of forget gates for me today
